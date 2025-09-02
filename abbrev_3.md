@@ -5,7 +5,7 @@
 - CoE — Centre d’Excellence : comité central + relais par domaine.
 - CDE — Élément de Donnée Critique : focus des contrôles/SLAs.
 - RBAC/ABAC — Contrôles d’accès par rôles / par attributs.
-- DPIA — Data Protection Impact Assessment : analyse d’impact des traitements.
+- DPIA — Data Protection Impact Assessment : analyse d’impact des traitements. 
 - DSR — Data Subject Request : gestion des droits (SLA, preuves, propagation).
 - SIEM — Security Information and Event Management : supervision sécurité.
 - KMS — Key Management Service : clés et séparation des rôles.
