@@ -1,0 +1,26 @@
+# Glossaire d’abréviations — Étape 2 (Politique de gouvernance)
+
+- RGPD — Règlement général sur la protection des données (UE) : principes, droits, obligations et sanctions.
+- CCPA — California Consumer Privacy Act : droits (accès, suppression, opt‑out), vente/partage des données.
+- PCI‑DSS — Payment Card Industry Data Security Standard : sécurité des données de cartes.
+- DPO — Délégué à la Protection des Données : supervise privacy et interface autorités.
+- CDO — Chief Data Officer : stratégie/exécution data et gouvernance.
+- CDE — Élément de Donnée Critique : priorité des contrôles qualité.
+- DSR — Data Subject Request : gestion des droits avec SLA et preuves.
+- DPIA (AIPI en français) — Data Protection Impact Assessment : évalue les risques et mitigations. Analyse d'Impact relative à la Protection des Données.
+- ROPA — Record of Processing Activities : registre des traitements.
+- PETs — Privacy‑Enhancing Technologies : réduction d’exposition (pseudonymisation, anonymisation, minimisation).
+- MFA — Multi‑Factor Authentication : authentification renforcée à facteurs multiples.
+- RBAC — Role‑Based Access Control : contrôle d’accès par rôles.
+- ABAC — Attribute‑Based Access Control : contrôle d’accès par attributs/conditions.
+- CMP — Consent Management Platform : gestion des préférences de consentement.
+- GPC — Global Privacy Control : signal navigateur d’opt‑out automatique.
+- SIEM — Security Information and Event Management : centralisation/corrélation des logs de sécurité.
+- KMS — Key Management Service : gestion/rotation des clés de chiffrement.
+- EDR — Endpoint Detection and Response : détection/réponse aux menaces sur postes/serveurs.
+- SSI — Sécurité des Systèmes d’Information : politique‑cadre interne de sécurité.
+- BAU — Business As Usual : régime nominal d’exploitation.
+- JIT — Just‑In‑Time : accès temporaires accordés à la demande.
+- JEA — Just Enough Administration : privilèges d’administration limités au nécessaire.
+- KPI — Key Performance Indicator : indicateur clé de performance.
+- SLA/SLO — Engagements et objectifs de service.
